@@ -26,7 +26,7 @@ Open './Core_MRI-DGDN.py' and change the default run_mode to train in parser (pa
 2.5、Check the results in './log_MRI/'.
 
 ### Citation  
-If you find the code helpful in your resarch or work, please cite the following papers.  
+If you find the code helpful in your resarch or work, please cite the following papers. 
 
 
 ### Contact  
