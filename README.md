@@ -28,9 +28,9 @@ We use the same dataset and training data pairs as ISTA-Net+ for CS-MRI. Limited
 We fix the pseudo radial sampling masks the same as ISTA-Net+. The measurement matrixs are in './sampling_matrix/'.
 
 2.3、Prepare code:
-Open './Core_CS_MRI.py' and change the default run_mode to train in parser (parser.add_argument('--run_mode', type=str, default='train', help='train、test')).
+Open './Core_MRI-DGDN.py' and change the default run_mode to train in parser (parser.add_argument('--run_mode', type=str, default='train', help='train、test')).
 
-2.4、Run the train script (Core_CS_MRI.py).
+2.4、Run the train script (Core_MRI-DGDN.py).
 
 2.5、Check the results in './log_MRI/'.
 
