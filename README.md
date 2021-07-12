@@ -3,7 +3,7 @@
 This repository contains the CS-MRI reconstruction pytorch codes for the following paper：  
 Xiaohong Fan, Yin Yang, Jianping Zhang*, "Deep Geometric Distillation Network for Compressive Sensing MRI", 2021, [[pdf]]() 
 
-These codes are adapted from ISTA-Net+ and FISTA-Net. These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon CPU E5-2630 and Nvidia Tesla V100 GPU.
+These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon CPU E5-2630 and Nvidia Tesla V100 GPU.
 
 ### 1.Test CS-MRI  
 1.1、Pre-trained models:  
@@ -28,6 +28,8 @@ Open './Core_MRI-DGDN.py' and change the default run_mode to train in parser (pa
 ### Citation  
 If you find the code helpful in your resarch or work, please cite the following papers. 
 
+### Acknowledgements  
+Thanks to the authors of ISTA-Net+ and FISTA-Net, our codes are adapted from the open source codes of ISTA-Net + and FISTA-Net.   
 
 ### Contact  
 The code is provided to support reproducible research. If the code is giving syntax error in your particular python configuration or some files are missing then you may open an issue or directly email me at fanxiaohong@smail.xtu.edu.cn
