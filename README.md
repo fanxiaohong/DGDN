@@ -12,8 +12,8 @@ All pre-trained models for our paper are in './model_MRI'.
 The original test set BrainImages_test is in './data/'.  
 1.3、Prepare code:  
 Open './Core_MRI-DGDN.py' and change the default run_mode to test in parser (parser.add_argument('--run_mode', type=str, default='test', help='train、test')).  
-3.4、Run the test script (Core_MRI-DGDN.py).  
-3.5、Check the results in './result/'.
+1.4、Run the test script (Core_MRI-DGDN.py).  
+1.5、Check the results in './result/'.
 
 ### 2.Train CS-MRI
 2.1、Prepare training data:  
