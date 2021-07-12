@@ -6,7 +6,7 @@ Xiaohong Fan, Yin Yang, Jianping Zhang*, "Deep Geometric Distillation Network fo
 
 These codes are adapted from ISTA-Net+ and FISTA-Net. These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon CPU E5-2630 and Nvidia Tesla V100 GPU.
 
-1.Test CS-MRI
+## 1.Test CS-MRI
 1.1、Pre-trained models:
 All pre-trained models for our paper are in './model_MRI'.
 1.2、Prepare test data:
@@ -16,7 +16,7 @@ Open './Core_MRI-DGDN.py' and change the default run_mode to test in parser (par
 3.4、Run the test script (Core_MRI-DGDN.py).
 3.5、Check the results in './result/'.
 
-2.Train CS-MRI
+## 2.Train CS-MRI
 2.1、Prepare training data:
 We use the same dataset and training data pairs as ISTA-Net+ for CS-MRI. Limited by the size of upload, we are unable to upload training data directly. Here we provide a link to download the training data (https://github.com/jianzhangcs/ISTA-Net-PyTorch) for you.
 2.2、Prepare measurement matrix:
