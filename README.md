@@ -25,5 +25,9 @@ Open './Core_MRI-DGDN.py' and change the default run_mode to train in parser (pa
 2.4、Run the train script (Core_MRI-DGDN.py).  
 2.5、Check the results in './log_MRI/'.
 
+### Citation  
+If you find the code helpful in your resarch or work, please cite the following papers.  
+
+
 ### Contact  
 The code is provided to support reproducible research. If the code is giving syntax error in your particular python configuration or some files are missing then you may open an issue or directly email me at fanxiaohong@smail.xtu.edu.cn
