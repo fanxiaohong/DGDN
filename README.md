@@ -3,7 +3,7 @@
 This repository contains the CS-MRI reconstruction pytorch codes for the following paper：  
 Xiaohong Fan, Yin Yang, Jianping Zhang*, “Deep Geometric Distillation Network for Compressive Sensing MRI,” 2021 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI), 2021, doi: 10.1109/BHI50953.2021.9508565. [[pdf]](https://ieeexplore.ieee.org/document/9508565) 
 
-Xiaohong Fan, Yin Yang, Jianping Zhang*, “Deep Geometric Distillation Network for Compressive Sensing MRI,” arxiv, 2021. [[pdf]](https://arxiv.org/abs/2107.04943) 
+Xiaohong Fan, Yin Yang, Jianping Zhang*, “Deep Geometric Distillation Network for Compressive Sensing MRI,” arXiv, 2021. [[pdf]](https://arxiv.org/abs/2107.04943) 
 
 These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon CPU E5-2630 and Nvidia Tesla V100 GPU.
 
