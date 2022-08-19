@@ -7,7 +7,8 @@ Xiaohong Fan, Yin Yang, Jianping Zhang*, “Deep Geometric Distillation Network 
 
 These codes are built on PyTorch and tested on Ubuntu 18.04/20.04 (Python3.x, PyTorch>=0.4) with Intel Xeon CPU E5-2630 and Nvidia Tesla V100 GPU.
 
-![image](https://user-images.githubusercontent.com/48355877/185526778-ccebef63-1c3f-462f-9566-ab06366a0497.png)
+![image](https://user-images.githubusercontent.com/48355877/185526778-ccebef63-1c3f-462f-9566-ab06366a0497.png)   
+Fig. 1. The overall architecture of deep geometric distillation network for Compressive Sensing MRI reconstruction
 
 ### 1.Test CS-MRI  
 1.1、Pre-trained models:  
