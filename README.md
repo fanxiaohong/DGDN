@@ -12,8 +12,8 @@ Fig. 1. The overall architecture of deep geometric distillation network for Comp
 
 ### Dependecies  
 ```
-pytorch <= 1.7.1
-scikit-image == 0.16.2 
+pytorch <= 1.7.1 (recommend 1.6.0, 1.7.1)
+scikit-image <= 0.16.2 (recommend 0.16.1, 0.16.2)
 ```
 
 ### 1.Test CS-MRI  
