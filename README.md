@@ -5,7 +5,7 @@ Xiaohong Fan, Yin Yang, Jianping Zhang*, “Deep Geometric Distillation Network 
 
 Xiaohong Fan, Yin Yang, Jianping Zhang*, “Deep Geometric Distillation Network for Compressive Sensing MRI,” arXiv, 2021. [[pdf]](https://arxiv.org/abs/2107.04943) 
 
-Abstract:
+### Abstract:
 Compressed sensing (CS) is an efficient method to reconstruct MR image from small sampled data in k-space and accelerate the acquisition of MRI. In this work, we propose a novel deep geometric distillation network which combines the merits of model-based and deep learning-based CS-MRI methods, it can be theoretically guaranteed to improve geometric texture details of a linear reconstruction. Firstly, we unfold the model-based CS-MRI optimization problem into two sub-problems that consist of image linear approximation and image geometric compensation. Secondly, geometric compensation sub-problem for distilling lost texture details in approximation stage can be expanded by Taylor expansion to design a geometric distillation module fusing features of different geometric characteristic domains. Additionally, we use a learnable version with adaptive initialization of the step-length parameter, which allows model more flexibility that can lead to convergent smoothly. Numerical experiments verify its superiority over other state-of-the-art CS-MRI reconstruction approaches.
 
 ![image](https://user-images.githubusercontent.com/48355877/185526778-ccebef63-1c3f-462f-9566-ab06366a0497.png)   
